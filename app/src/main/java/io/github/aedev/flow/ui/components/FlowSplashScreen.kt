@@ -157,7 +157,7 @@ fun FlowSplashScreen(
 
                 // 2. The Text (Optional)
                 Text(
-                    text = "Flow",
+                    text = "RikkY Tube",
                     color = textColor,
                     fontSize = 26.sp,
                     fontWeight = FontWeight.Bold,
