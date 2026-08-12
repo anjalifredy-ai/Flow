@@ -46,7 +46,7 @@
   
   <h3>A privacy-respecting YouTube and YouTube Music client for Android with a local recommendation engine.</h3>
   <p>
-    Flow is a YouTube client built with Jetpack Compose and Material 3.<br>
+    RikkY Tubeis a YouTube client built with Jetpack Compose and Material 3.<br>
     It includes FlowNeuro, a recommendation engine that runs entirely on your device — no accounts, no tracking, no data leaves your phone.
   </p>
   
